@@ -1,0 +1,2 @@
+# JS
+JavaScript valodas pamati
